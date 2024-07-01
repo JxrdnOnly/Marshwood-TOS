@@ -1,6 +1,6 @@
-# Terms of Service for Lukey Wukey
+# Terms of Service for Lukey Wukey 🐻
 
-This repository contains the Terms of Service and related policies for Lukey Wukey, a Discord bot designed to communicate and conversate with your discord members.
+This repository contains the Terms of Service and related policies for Lukey Wukey 🐻, a Discord bot designed to communicate and conversate with your discord members.
 
 ## Content
 
@@ -10,4 +10,4 @@ This repository contains the Terms of Service and related policies for Lukey Wuk
 
 ## Purpose
 
-This repository is intended to provide a clear and transparent understanding of the rules and guidelines for using Lukey Wukey.
+This repository is intended to provide a clear and transparent understanding of the rules and guidelines for using Lukey Wukey 🐻.
